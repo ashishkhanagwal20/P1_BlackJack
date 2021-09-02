@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(10, 151, 10);
+    background-image: url("bj.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+h1{
+    color: goldenrod;
+}
+
+p{
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#btn-el{
+    display: inline;
+    background-color:goldenrod;
+    color: #016f32;
+    width: 150px;
+    font-weight: bold;
+    padding-top:5px ;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 5px;
+}
+
+#new-el{
+    display: inline;
+    background-color:goldenrod;
+    color: #016f32;
+    width: 150px;
+    font-weight: bold;
+    padding-top:5px ;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 5px;
+
+}
